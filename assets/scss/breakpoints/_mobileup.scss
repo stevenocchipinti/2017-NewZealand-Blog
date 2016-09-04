@@ -16,6 +16,7 @@ body {
 	font-size: 112.5%; // 18px base font size
 	color: $black;
 	overflow-x: hidden;
+	margin: 0;
 
 	p , ul {
 		margin: 0 0 2rem;
@@ -176,7 +177,10 @@ HEADER STYLING
 
 .header {
 	background-color: $background-color;
-	background-image: url('../img/touring.jpg');
+	background-image: linear-gradient(
+		rgba(0, 0, 0, 0.5),
+		rgba(0, 0, 0, 0.5)
+	), url('../img/touring.jpg');
 	background-size: cover;
 	background-position: center center;
 	color: white;
