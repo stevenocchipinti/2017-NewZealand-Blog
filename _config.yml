@@ -11,4 +11,4 @@ highlighter: rouge
 gems: [jekyll-paginate]
 paginate: 20
 
-google_analytics: "UA-58263416-1"
+google_analytics: "UA-38345732-5"
