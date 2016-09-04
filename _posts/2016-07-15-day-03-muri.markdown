@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "Day 3 - Muri"
+date:   2016-07-15
+---
+
+Made bacon and eggs for breakfast, so good!
+Went down to checkout the beach, took about 10 seconds to get there!
+
+<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt=""> 
+
+Got more information about tours and scooter hire
+Relaxed by the pool until my pickup arrived to go to the hire place
+Hired a scooter for 7 days, $100 and got a one day temporary license.
+Rode to the police station to do the test, but they were done for the day, so I booked in for 11:30 tomorrow.
+Rode back to the hotel and stopped at the bakery on the way back for a salad roll. The bread was really good!
+
+<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt=""> 
+
+Packed some things and rode over to muri, just as I reached muri my scooter started playing up and wouldn't accelerate. I waited on the side of the road for a little and eventually it got enough power back back to take me back to muri.
+Even on the way back it was losing power intermittently. I parked it and went for a walk down the beach
+
+<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt=""> 
+
+I got back and it seemed ok, but I'm worried it won't get me back to the other side of the island to get home and by then it'll be dark! It'll be even worse if it starts raining and if it continues playing up, I may not be able to make it to the police station by 11:30.
+The night market area was still being setup, so I just wandered around town and ended up walking up the shore line again. There are a lot of really nice looking hotels around there!
+By the time I got back to the night market there were people everywhere and a massive choice of foods!
+Almost every stall sold food, fruit smoothies and desserts. The desserts in particular looked very impressive because they were all hand made: cakes, ice cream and baked goods.
+I ended up getting "island BBQ", which had (cold) rice, a beetroot potato salad, "chop suey" (which I think are noodles made from taro), rakua? (Rarotonga spinach in coconut milk), two sausages and two chops.
+
+<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt=""> 
+
+While I was eating I ended up speaking to a lady who was originally from New Zealand, but was in Rarotonga with her family raising money for her daughter's school. The stall she worked at accepted coin donations and "rented" out cutlery and plates - this was way easier to eat chops with compared to the plastic fork I got from the food stall.
+When I had finished I ordered a coconut and banana smoothie. The guy cut open a massive coconut, poured the water into a blender, cut a couple of bananas into it, blended it up, then put it all back into the coconut.
+I chatting to him while he was doing it, his daughter is supposedly a popular yoga teacher who's fairly well known around the island. Her classes are normally $80, but he said I can join in ad-hoc for $30 and gave me the details for the class. The only problem is it's at 7:30am and on the other side on the island from my hotel!
+... Maybe.
+After speaking to some tourists from the UK and finishing my coconut to the best of my ability (it was huge!) I gave the guy the coconut back (he feeds them to his chickens) and jumped on the scooter to go home.
+It seemed to start ok, so I put on a jumper and headed home. I was trying to take it easy going back, the cold ocean wind went straight through my jumper and tshirt and there were bugs hitting me. I put down the visor which made visibility at night worse, but it meant I didn't have to squint and eventually made it to the hotel. Just as a started slowing down for the driveway of the hotel, the power died! I ended up pushing it into the hotel!
+I'm glad it died in front of the hotel and not down the road, but it also makes me nervous to take out for a ride right around the island!
+I'll hopefully get my license tomorrow and then probably take it back!
+For now I'm just going to relax at the hotel and read a book

@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Day 0 - Arrival"
+date:   2016-07-12
+---
+
+Delays at Melbourne airport
+Still lots of time to kill at Auckland
+Transferred without a second boarding pass, killed 5-6 hours before getting one from the gate, which wasn't announced until 1hr before departure
+Raro airport is tiny!
+
+<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt=""> 
+
+Humid weather, slightly raining
+Confusion about dates and names (crossed the international date line)
+Welcomed with a flower necklace
+
+<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt=""> 
+
+Got into a mini van with other tourists, 70kmph in a 50kmph zone and check engine light on
+Got into my room and will sort out booking stuff in the morning (it's 2:45am)
+There are "jet blast zone" and "stop when jets take off" signs on the road near the airport,
+Bungalow is big
+
+<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt=""> 
+
+There are gecko's around, something moved and scared me, haha
+Rangi (pronounced rungy?) was nice, said it was chilly outside, except I was sweating!
+Straight to bed!
