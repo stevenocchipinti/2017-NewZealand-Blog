@@ -105,6 +105,9 @@ MENU STYLING
 }
 
 .nav-toggle {
+  /* Disable the nav menu, not used for this site! */
+  display: none;
+
   -webkit-tap-highlight-color: rgba(0,0,0,0);
   -webkit-touch-callout: none;
   -webkit-user-select: none;
@@ -190,6 +193,10 @@ HEADER STYLING
 	.container {
 		padding: 0;
 		@include container(100%);
+	}
+
+	.subtitle {
+		display: none;
 	}
 
 	h1 {

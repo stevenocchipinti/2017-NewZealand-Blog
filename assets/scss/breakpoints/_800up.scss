@@ -67,6 +67,10 @@ HEADER STYLING
 		@include container(800px); 
 	}
 
+	.subtitle {
+		display: block;
+	}
+
 	h1 {
 		font-size: 3em;
 		line-height: 1;
