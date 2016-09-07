@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Day 0 - Arrival"
+title:  "Arrival"
 date:   2016-07-12
 ---
 
