@@ -33,7 +33,7 @@ had a cafe, so I headed back.
 They had a minimum $20 so I ordered a seafood platter and a coke.
 It was fairly greasy, but I was too hungry to care.  
 
-<img src="{{ '/assets/img/dinner.jpg' | prepend: site.baseurl }}" alt=""> 
+<img src="{{ '/assets/img/day-01-dinner.jpg' | prepend: site.baseurl }}" alt=""> 
 
 The little hut's roof was leaking from everywhere, but I sat up against the
 counter with the company of a cat and some terrible American reality TV show.  
