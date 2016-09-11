@@ -13,22 +13,22 @@ Took a side road, dirt track, scooter off road
 Found the gardens, hidden spirit cafe
 Had a delicious fruit and chicken salad with coconut Mayo
 
-<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt=""> 
+{% c_img day-06-lunch_shs1ki.jpg %}
 
 Walked around the gardens and took macro photos
 
-<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt=""> 
+{% c_img day-06-garden_komiuj.jpg %}
 
-<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt=""> 
+{% c_img day-06-garden2_l5qdul.jpg %}
 
-<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt=""> 
+{% c_img day-06-garden3_fyg09j.jpg %}
 
-<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt=""> 
+{% c_img day-06-garden4_zxmhm7.jpg %}
 
 Continued on to muri
 Stopped at a fishing pier to put on sunscreen
 
-<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt=""> 
+{% c_img day-06-beach_sehihj.jpg %}
 
 Enquired about kite surfing, a little expensive, wind will be sufficient from Thursday onward
 Also booked paddleboard yoga for Wednesday
@@ -39,7 +39,7 @@ Waited around for the night market to start
 Got some cash out ($5.50 ATM fee!)
 Got a Marlin salad, berry smoothie and choc-berry brownie, pretty tasty!
 
-<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt=""> 
+{% c_img day-06-dinner_bw5u45.jpg %}
 
 Didn't have a jumper or a helmet, so I left just as the sun was setting with my sunglasses as goggles
 Got home, prepared burgers, nap, shower, book, bed

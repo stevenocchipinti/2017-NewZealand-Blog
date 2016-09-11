@@ -25,4 +25,4 @@ Animals don't try to kill you here, most things are safe, including swimming in 
 Power points are the same as Australia
 Uses New Zealand money, plus Cook Islands Triangle coins
 
-<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt=""> 
+{% c_img coins_q8afji.jpg %}

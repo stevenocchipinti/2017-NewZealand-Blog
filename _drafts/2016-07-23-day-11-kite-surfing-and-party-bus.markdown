@@ -13,7 +13,7 @@ Stopped by Rehab to pay for the party bus
 The guy said you can't bring alcohol on the bus, but you can mix some into a bottle of soft drink and sneak it on!
 Had fruit and muesli with a smoothie for breakfast at LBV (bakery)
 
-<en-media type="image/jpeg" hash="1a1cc9846d02744094921cb8a600c618"/>
+{% c_img day-11-breakfast_so82uf.jpg %}
 
 Went to the beach, found kitesup people
 Got a wet suit and a harness
@@ -42,3 +42,8 @@ When we got there, I saw the bus I came on and the guy pointed me in the right d
 It got to about 12:45 and I was tired and the back of my ankles were killing me. I'm not sure if they got cut from the wind surfing today or the dancing or from having sand in there for so long, but every step I took became more painful so I decided to leave a bit early. The bus would have taken me home at 2am and I had already paid for it, but I decided to take a taxi instead. It was going to cost me $30 to get home, which was a bit expensive, but I ended up sharing it with a bunch of other people including one girl who had way too much to drink and could barely stand!
 In the end the cab still charged too much, he asked everyone for $10 and there were a few of us, but it's better than the $30 I was originally going to pay!
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GvQ8VWlCc2U" frameborder="0" allowfullscreen></iframe>
+
+{% c_img day-11-coconut_lffj8k.jpg %}
+
+{% c_img day-11-lunch_wazowq.jpg %}

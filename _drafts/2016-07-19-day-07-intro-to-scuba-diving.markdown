@@ -7,8 +7,6 @@ date:   2016-07-19
 Scuba people coming to the hotel at 1:30pm today, so I slept in until 11am and then used the last of the bacon to make breakfast.
 It's been raining all morning with dark clouds over head, I'm guessing the rain wouldn't affect scuba diving much (you'll be wet anyway!) but without the sun I'd imagine the water is going to be pretty chilly!
 
-<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt=""> 
-
 After chatting with the scuba girl, I decided to give it a go. She walked me through how the gear works, how to inflate and deflate the jacket, etc. and before long I hoped in the pool.
 The water was pretty cold, but it was bearable and actually better under the water than on top.
 It took me 5-10 minutes to be able to breathe through the regulator, my natural reaction of holding my breathe when under water was a little tough to break, but eventually I got the hang of it. It helped when I started swimming around rather than just trying to duck my head under.

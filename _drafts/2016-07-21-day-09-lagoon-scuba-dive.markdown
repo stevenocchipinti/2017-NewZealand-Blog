@@ -30,11 +30,11 @@ I got back to the hotel and was fairly hungry, so I packed some things and rode 
 
 On the way in, I saw the Palace Takeaway shop and there were heaps of people there, so I thought I'd give it a go (although I'm not keen on trying the Palace Burger! I've already put on weight on this trip) I was pretty hungry though, so I got a meal that had a cheese burger, chips and a drink. This means I paid more than $3.50, but the whole lot only cost $11, much cheaper than a grocery run!
 
-<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt=""> 
+{% c_img day-09-palace-burger_il1mt8.jpg %}
 
 I sat at the benches with the pier on one side and a great view of the mountain on the other. There was a lot of clouds slowly moving over the mountain covering the peaks, it looked awesome!
 
-<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt=""> 
+{% c_img day-09-mountain_koh7pn.jpg %}
 
 The burger was pretty good, the buns tasted like they were fresh from the bakery and the cheese was nicer than the processed cheese from McDonald's.
 
@@ -50,14 +50,14 @@ The one thing to remember when looking for a place that you've never been to in 
 
 The restaurant is really nice, even though it was raining and the roof was leaking. I ordered a beer and took a seat, there was a duet playing soft mellow music in the background and the waiter noticed I was by myself and even stopped for a bit of a chat.
 
-<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt=""> 
+{% c_img day-09-band_sxg2rm.jpg %}
 
 I ordered a "pork bagger", which is a pork fillet cut in half and stuffed with button mushrooms and bacon cooked in truffle oil and butter, then sealed and tried with a light crumbed coating.
 
-<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt=""> 
+{% c_img day-09-dinner_mgvl4s.jpg %}
 
 The food was delicious and the waiter was happy to go through the process of how I could make it at home. Eventually the dessert menu came out and I thought I'd treat myself to a apple crumble. It has ice cream on the top and I assumed the apple part at the bottom would be warm, but it was really hot. Despite almost burning myself, it was delicious!
 
-<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt=""> 
+{% c_img day-09-dessert_weuj06.jpg %}
 
 As I was on my way out, I got a tap on the shoulder and the neighbors from the hotel were also there. I had a bit if a chat and then jumped on the scooter for the ride in the rain back to the hotel.
