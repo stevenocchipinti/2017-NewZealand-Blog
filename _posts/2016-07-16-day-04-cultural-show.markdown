@@ -35,7 +35,7 @@ beach and the ocean!
 We arrived there a little early so I walked around and took some photos and
 looked through the museum until the other buses arrived.
 
-<img src="{{ '/assets/img/day-04-view.jpg' | prepend: site.baseurl }}" alt=""> 
+{% c_img day-04-view_tr2qiu.jpg %}
 
 The groups started pouring out of the buses and we all went inside and were
 handed a welcome cocktail. There was an introductory speech and then we headed
@@ -59,7 +59,7 @@ navigation before going out to the sea.
 We headed back inside for dinner, a massive feast with big variety of food that
 was cooked in the underground umu's was waiting for us and it smelled amazing!
 
-<img src="{{ '/assets/img/day-04-dinner.jpg' | prepend: site.baseurl }}" alt=""> 
+{% c_img day-04-dinner_nysoas.jpg %}
 
 I also tried the local beer, Matatu. They have a pale ale (what I had, pretty
 good) and a lager.
@@ -80,4 +80,4 @@ bus, a very funny guy). Also, I could be wrong, but it looked like the two kids
 from the [tourism commercials](https://www.youtube.com/watch?v=eB9ITxKA7r8) were
 also in the band!
 
-<img src="{{ '/assets/img/day-04-performance.jpg' | prepend: site.baseurl }}" alt="">
+{% c_img day-04-performance_kl5gwc.jpg %}
