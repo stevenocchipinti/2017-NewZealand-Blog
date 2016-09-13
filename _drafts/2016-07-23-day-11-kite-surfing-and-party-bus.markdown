@@ -13,7 +13,7 @@ Stopped by Rehab to pay for the party bus
 The guy said you can't bring alcohol on the bus, but you can mix some into a bottle of soft drink and sneak it on!
 Had fruit and muesli with a smoothie for breakfast at LBV (bakery)
 
-{% c_img day-11-breakfast_so82uf.jpg %}
+<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/c_limit,h_600,w_600/v1/cookislands2016/day-11-breakfast_so82uf.jpg" />
 
 Went to the beach, found kitesup people
 Got a wet suit and a harness
@@ -44,6 +44,6 @@ In the end the cab still charged too much, he asked everyone for $10 and there w
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GvQ8VWlCc2U" frameborder="0" allowfullscreen></iframe>
 
-{% c_img day-11-coconut_lffj8k.jpg %}
+<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/c_limit,h_600,w_600/v1/cookislands2016/day-11-coconut_lffj8k.jpg" />
 
-{% c_img day-11-lunch_wazowq.jpg %}
+<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/c_limit,h_600,w_600/v1/cookislands2016/day-11-lunch_wazowq.jpg" />

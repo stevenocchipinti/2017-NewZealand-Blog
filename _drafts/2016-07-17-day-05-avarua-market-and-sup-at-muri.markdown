@@ -10,22 +10,22 @@ The practical test gets you to go around cones, but they are quite close togethe
 In the end I paid $5x2 for the written test, $5 for the practical test and $20 for the licence.
 From there I went to the avarua market
 
-{% c_img day-05-market_axrebg.jpg %}
+<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/c_limit,h_600,w_600/v1/cookislands2016/day-05-market_axrebg.jpg" />
 
-{% c_img day-05-market2_w8e3xc.jpg %}
+<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/c_limit,h_600,w_600/v1/cookislands2016/day-05-market2_w8e3xc.jpg" />
 
 Got a marinated chicken plate that came with potato salad and veges with a home made passion fruit, mango, coconut and guava juice.
 
-{% c_img day-05-lunch_wg90gt.jpg %}
+<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/c_limit,h_600,w_600/v1/cookislands2016/day-05-lunch_wg90gt.jpg" />
 
 While I was eating I got chatting with an Aussie who works out in the mines and I'm pretty sure I saw the old guy from the tourism ad as well!
 Spoke to a kite surfing company that has a stall at the market about lessons, sounds hard (normally around 15 hours to get good) but the intro course sounds easy enough as there is no board involve, just body dragging.
 Went for a ride around the rest of the island, finally did a full lap! Really nice ride!
 Stopped at muri beach along the way, barely any wind.
 
-{% c_img day-05-beach-dog_iiyrtr.jpg %}
+<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/c_limit,h_600,w_600/v1/cookislands2016/day-05-beach-dog_iiyrtr.jpg" />
 
-{% c_img day-05-beach-panorama_mcx7u6.jpg %}
+<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/c_limit,h_600,w_600/v1/cookislands2016/day-05-beach-panorama_mcx7u6.jpg" />
 
 Decided with this weather it would be good to try a SUP (stand up paddleboard), so I rode to the hotel, got changed, grabbed a towel and went back to muri.
 Hired the SUP from captain tava for $20 for an hour and gave it a go.

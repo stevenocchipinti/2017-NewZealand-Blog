@@ -15,7 +15,7 @@ bother me too much because part of my goal for this trip was to disconnect and
 properly relax, so I wanted to stay off the internet anyway and with prices like
 that, it wasn't hard to avoid!
 
-{% c_img day-01-wifi_j6dyqc.jpg %}
+<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/c_limit,h_600,w_600/v1/cookislands2016/day-01-wifi_j6dyqc.jpg" />
 
 By this time I was starting to get hungry, but because I had basically slept the
 whole day, by the time I left it was already dark and still raining outside.
@@ -33,12 +33,12 @@ had a cafe, so I headed back.
 They had a minimum $20 so I ordered a seafood platter and a coke.
 It was fairly greasy, but I was too hungry to care.  
 
-{% c_img day-01-dinner_z5bvdn.jpg %}
+<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/c_limit,h_600,w_600/v1/cookislands2016/day-01-dinner_z5bvdn.jpg" />
 
 The little hut's roof was leaking from everywhere, but I sat up against the
 counter with the company of a cat and some terrible American reality TV show.  
 
-{% c_img day-01-cafe_ad5rf5.jpg %}
+<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/c_limit,h_600,w_600/v1/cookislands2016/day-01-cafe_ad5rf5.jpg" />
 
 I spoke to a local who spent 18 years in Melbourne but is back home with his
 family. He told me how it is possible to survive without jobs here because they

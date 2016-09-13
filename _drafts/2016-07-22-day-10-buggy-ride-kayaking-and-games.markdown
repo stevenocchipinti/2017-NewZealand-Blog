@@ -15,7 +15,7 @@ Went to the abandoned Sheridan, apparently there were two offers to build casino
 It was really muddy through there! We went to a driving range, we each had 6 shots and if we got a hole in one our ticket price would be refunded. Apparently this happened around 10 times in the last few months, but no one from our group got it.
 While we were golfing, they hosed down our buggies and then we gave our lunch order to our guide and her ordered for us at the Moore's cafe(?) and we drive down there, after lunch and headed back to the hotel where we started.
 
-{% c_img day-10-buggy_huqadl.jpg %}
+<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/c_limit,h_600,w_600/v1/cookislands2016/day-10-buggy_huqadl.jpg" />
 
 There were dark clouds lingering over the mountain, so I thought I'd go back to the hotel to get there voucher while I still could, even though I was covered in mud! About half way there it started raining. Got to the hotel, grabbed the voucher and headed back, by the time I reached muri again the weather was clear. Not sure if it was only raining on that side of the island or if the weather has just changed so frequently. There were still dark clouds over the mountain so it was hard to tell. I dropped off the voucher and headed to the beach to wash all the mud off. Once I was somewhat clean, I drive around to kitesup to check the weather for tomorrow kite surfing lesson and they said it should be around 20 knots, which is good for kite surfing.
 

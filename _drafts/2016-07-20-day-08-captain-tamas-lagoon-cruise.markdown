@@ -12,19 +12,19 @@ Picked up some flippers and jumped on the boat.
 Took us out to a spot with lots of fish. They have been feeding the fish everyday for years so they gather around the boat looking for a feed.
 It was a really windy day today, so a few of us didn't jump in the water and just looked through the glass floor, even the captain said we're crazy for doing this in winter, haha.
 
-{% c_img day-08-glass-bottom-boat_xnsixs.jpg %}
+<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/c_limit,h_600,w_600/v1/cookislands2016/day-08-glass-bottom-boat_xnsixs.jpg" />
 
 After spending a bit of time there we started heading towards the small island opposite muri beach where there were some people cooking our lunch using a huge hot plate over an open fire.
 
-{% c_img day-08-cooking_grwopy.jpg %}
+<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/c_limit,h_600,w_600/v1/cookislands2016/day-08-cooking_grwopy.jpg" />
 
 After about 10 minutes, lunch was served, potato salad, coleslaw, papaya with coconut, watermelon, star fruit, grilled fish, grilled bananas and grilled onions.
 
-{% c_img day-08-lunch_g0n6dq.jpg %}
+<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/c_limit,h_600,w_600/v1/cookislands2016/day-08-lunch_g0n6dq.jpg" />
 
 On the boat they explained that there is no septic tank on the island because of environmental reasons, so they explained how to use the drop toilets.
 
-{% c_img day-08-toilet-sign_teymod.jpg %}
+<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/c_limit,h_600,w_600/v1/cookislands2016/day-08-toilet-sign_teymod.jpg" />
 
 After lunch there were a couple of demonstrations, the first was the coconut show.
 He demonstrated how to climb the coconut tree and picked a few coconuts.
@@ -34,13 +34,13 @@ He then used the back, blunt end of a really big knife to smash the side and it 
 They use the husk from the outer shell to make rope and weave material, the shells to make a coconut bra and ukulele, the trunk of the tree to make posts for houses and drums.
 With the water taken from the nut, they use a sharp grated piece of steel attached to a piece of wood that you sit on to scrap out the coconut meat and let it fall into some cloth like material they they got from the outside of the tree, once all the grated coconut is in the cloth it can be squeezed to extract the creme, which is good for moisturising skin and healing cuts. The left over coconut meat is then used in cooking. No part goes to waste, they call it the tree of life.
 
-{% c_img day-08-performance_awthin.jpg %}
+<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/c_limit,h_600,w_600/v1/cookislands2016/day-08-performance_awthin.jpg" />
 
 After that show, they demonstrated how to tie a sarong a few different ways for women and a couple of ways for the warriors (men), including a G-string style for one of the guys, who wasn't too impressed.
 
 We had some time to relax on the island as they packed everything up and I laid around listening to the crew play their music. They were quite funny and made up songs on the spot about each other. They had a few drums and ukuleles.
 
-{% c_img day-08-music_tybqx8.jpg %}
+<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/c_limit,h_600,w_600/v1/cookislands2016/day-08-music_tybqx8.jpg" />
 
 We headed break to shore and caught a bus back to our hotels. I heated up some leftover BBQ for from last night and relaxed by the pool for a bit.
 
@@ -50,11 +50,11 @@ The weather looked pretty terrible, although it wasn't raining just yet, I thoug
 
 I found the place and parked my scooter on the side of the road, amazingly the weather seemed much better now, not sure if it was just because the wind was just stronger on the other side of the island or if conditions had actually improved, but I was able to sit outside with the beach in the distance, the temperature was perfect with barely any wind - such a nice night I decided to celebrate with a matutu (the local beer)
 
-{% c_img day-08-restaurant_gwgvti.jpg %}
+<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/c_limit,h_600,w_600/v1/cookislands2016/day-08-restaurant_gwgvti.jpg" />
 
 At the cultural night a while ago, I tried the pale ale from Matutu so this time I gave the lager a go. It wasn't too bad, but the I prefer the pale ale.
 
-{% c_img day-08-beer_mql5lu.jpg %}
+<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/c_limit,h_600,w_600/v1/cookislands2016/day-08-beer_mql5lu.jpg" />
 
 I ordered a steak with mushroom sauce and went for a walk down the beach. I got to the shore and realised I was surrounded by lots of small crabs. Being from Australia, I assume they are trying to kill me, so I gave them some space and headed back toward the restaurant.
 
@@ -62,13 +62,13 @@ I ended up speaking with a guy who was originally from New Zealand, but moved he
 
 A waitress then called out to me to let me know me meal was ready and it looked delicious!
 
-{% c_img day-08-dinner_kiinue.jpg %}
+<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/c_limit,h_600,w_600/v1/cookislands2016/day-08-dinner_kiinue.jpg" />
 
 As I was eating a couple turned up to the table next to me, but they picked the table very specifically as they lived next door and their baby sitter was away, so they brought a baby monitor with them! Sitting at the beach with a baby monitor - more examples of life here!
 
 As I was eating, there was a really nice Labrador walking around looking for scraps. I gave him a pat and he looked like he had a big smile and decided to sit by my feet while I ate. I ended up giving him the fat from my steak and the restaurant staff said "I see you've met Sam", he is a local dog that everyone seemed to know. Couldn't help but think if this was in Australia it would be a health and safety risk or something, but for someone who likes dogs and someone dining by themselves, it was kind of nice!
 
-{% c_img day-08-dog_pkwg9w.jpg %}
+<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/c_limit,h_600,w_600/v1/cookislands2016/day-08-dog_pkwg9w.jpg" />
 
 I got the bill and headed back. This meal was probably too soon, I ate at the hotel sometime between 4-5 and started eating here a little after 7 - I'm so full!
 
