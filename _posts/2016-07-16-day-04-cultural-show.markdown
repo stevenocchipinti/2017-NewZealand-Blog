@@ -10,9 +10,9 @@ into the middle of the station where there was a table and chairs, gave me the
 test and left me to complete it.
 
 Unfortunately I failed the written test! While they said the rules are basically
-the same as Australia, there were a few that were quite different! Reading the
-Road Code book (instead of just winging it like me) is recommended! I took some
-notes on where I went wrong and booked a retest tomorrow at 8:30am.  
+the same as Australia, but there were a few that were quite different! Reading
+the Road Code book (instead of just winging it like me) is recommended! I took
+some notes on where I went wrong and booked a retest tomorrow at 8:30am.  
 After this somewhat disappointing event, I stopped at a cafe for brunch and had
 a really nice muesli, fruit and yogurt.
 
@@ -32,7 +32,7 @@ I read my book by the pool until it was time to be picked up. Around 5:00pm my
 lift arrived and we drove up the mountain to about 500 meters above sea level.
 The view from there was spectacular! You got a wide view of the jungle, the
 beach and the ocean!  
-We arrived there a little early so I walked around and took some photos and
+We arrived there a little early so I walked around, took some photos and
 looked through the museum until the other buses arrived.
 
 <img src="https://res.cloudinary.com/stevenocchipinti/image/upload/c_limit,h_600,w_600/v1/cookislands2016/day-04-view_tr2qiu.jpg" />
