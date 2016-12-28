@@ -19,13 +19,13 @@ During lunch I bumped in to Jack, the scuba diving instructor and his diving
 mate Zach. This Zach turned out to be the person Kelly was staying with and I
 was actually on the party bus with him too. I'm pretty sure this was also the
 guy that was caused that person at my hotel to start yelling in the middle of
-the night a few days ago. I had lunch with them and then went to kitesup to get
+the night a few days ago. I had lunch with them and then went to KiteSUP to get
 my refund.
 
-As I was parking my scooter out the front, I saw Ash from kitesup and he invited
+As I was parking my scooter out the front, I saw Ash from KiteSUP and he invited
 me to the beach for a beer with them, but I went inside to get my refund sorted
 first.  
-I almost used my refund to get the rain jacket from kitesup, but they only had
+I almost used my refund to get the rain jacket from KiteSUP, but they only had
 XL's in men's and the rest were women's so they refunded to my credit card.
 
 After that was sorted I went down to the beach and hung out there for the rest
