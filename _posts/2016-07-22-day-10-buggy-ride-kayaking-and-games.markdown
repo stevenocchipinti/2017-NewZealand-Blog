@@ -81,9 +81,9 @@ the ocean. I didn't get too close in fear that my kayak would get caught on the
 rocks and headed back around to the small island where we went for Captain
 Tama's Lagoon tour. By the time I had made it there I was pretty tired and
 pulled up on the sand bar. There was a girl relaxing on the sand bar so I
-stopped for a chat. She was from Germany and was here on holiday after finishing
-her master's in psychology. After a nice chat, I headed back to shore and
-returned my kayak.
+stopped for a chat. Her name was Sarah and she was from Germany. Sarah was here
+on holiday after finishing her master's in psychology. After a nice chat, I
+headed back to shore and returned my kayak.
 
 It was about 4:30 by this stage and the night market was going to start at 5:00,
 so I went to get some fuel for the scooter and waited around the market for all
