@@ -1,7 +1,7 @@
-title: Rarotonga, Cook Islands
-description: My holiday to the Rarotonga
+title: New Zealand
+description: Our holiday to the New Zealand
 
-url: http://stevenocchipinti.github.com/2016-CookIslands-Rarotonga-Blog
+url: http://stevenocchipinti.github.com/2017-NewZealand-Blog
 baseurl: ""
 paginate_path: page/
 permalink: :title/
@@ -11,4 +11,4 @@ highlighter: rouge
 gems: [jekyll-paginate]
 paginate: 20
 
-google_analytics: "UA-38345732-5"
+google_analytics: "UA-38345732-6"
