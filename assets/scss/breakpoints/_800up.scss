@@ -236,3 +236,8 @@ CONTACT PAGE STYLING
     @include span(6 of 12 last);
   }
 }
+
+.youtube-video {
+  display: block;
+  margin: 0 auto 30px auto;
+}
