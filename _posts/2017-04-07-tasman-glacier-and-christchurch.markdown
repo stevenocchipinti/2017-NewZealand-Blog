@@ -4,6 +4,8 @@ title:  "Tasman Glacier And Christchurch"
 date:   2017-04-07
 ---
 
+NOTE: This post doesn't have pictures yet, but I will add them soon!
+
 This morning we left the house to go back to the helicopter tour place. The
 weather was so much better than yesterday, it was fairly warm in the sun,
 nothing but clear blue skies and barely any wind. Looks like a great day for a
