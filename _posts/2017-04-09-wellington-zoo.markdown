@@ -4,6 +4,8 @@ title:  "Wellington Zoo"
 date:   2017-04-09
 ---
 
+ANTH AND AMY BROKE THE NEWS ABOUT THEIR MARRIAGE?!
+
 Today we went to Wellington Zoo. We drove our van over to the zoo but it was
 pretty hard to find parking! We were expecting a massive car park but either
 they don't have one or we just couldn't find it. We ended up parking on the side
