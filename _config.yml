@@ -1,8 +1,8 @@
 title: New Zealand
 description: Our holiday to the New Zealand
 
-url: http://stevenocchipinti.github.com/2017-NewZealand-Blog
-baseurl: ""
+url: http://stevenocchipinti.github.com
+baseurl: "/2017-NewZealand-Blog"
 paginate_path: page/
 permalink: :title/
 
